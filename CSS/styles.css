@@ -1,0 +1,241 @@
+a{
+    color: #9DC08B;
+    margin: 5px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a:hover{
+    color: #609966;
+}
+
+.aws{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background: rgb(34,195,104);
+    background: linear-gradient(0deg, rgba(34,195,104,1) 65%, rgba(0,181,255,1) 82%);
+    color: black;
+}
+
+body::-webkit-scrollbar {
+    display: none; /* for Chrome, Safari, and Opera */
+}
+
+.btmcontainer{
+    background-color: #191A19;
+    padding: 15px 0 5px 0;
+    /* height: 200px; */
+    /* width: 200px; */
+    /* border: 10px solid black; */
+    
+}
+
+.btmcloud{
+    position: absolute;
+    left: 220px;
+    top: 325px;
+    /* bottom: 300px; */
+    /* bottom: 300px; */
+}
+
+.btn {
+    background: #41644A;
+    background-image: -webkit-linear-gradient(top, #41644A, #263A29);
+    background-image: -moz-linear-gradient(top, #41644A, #263A29);
+    background-image: -ms-linear-gradient(top, #41644A, #263A29);
+    background-image: -o-linear-gradient(top, #41644A, #263A29);
+    background-image: -webkit-gradient(to bottom, #41644A, #263A29);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    color: #E86A33;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 7px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #000000 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 20px;
+ }
+ 
+ .btn:hover {
+    border: solid #000000 1px;
+    background: #263A29;
+    background-image: -webkit-linear-gradient(top, #263A29, #41644A);
+    background-image: -moz-linear-gradient(top, #263A29, #41644A);
+    background-image: -ms-linear-gradient(top, #263A29, #41644A);
+    background-image: -o-linear-gradient(top, #263A29, #41644A);
+    background-image: -webkit-gradient(to bottom, #263A29, #41644A);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #E86A33;
+ }
+
+.contact-message{
+    width: 50%;
+    margin: auto;
+}
+
+.copyright{
+    font-size: 0.75rem;
+    color: #E86A33;
+}
+
+.code{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.devops{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.git{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+h1{
+    margin: -30px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+    color: #146C94;
+    /* width: 10px; */
+    /* margin: 0 auto; */
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #1E5128;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-family: 'Merriweather', serif;
+    color: #E86A33;
+}
+
+hr {
+    border-color: #5D9C59;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+    /* height: 0px; */
+    /* background-color: white; */
+}
+
+.intro{
+    width: 60%;
+    margin: auto;
+    /* line-height: 2; */
+}
+
+.jira{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.linux{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.midcontainer{
+    margin: 50px 0px;
+    /* background-color: red; */
+    /* height: 200px; */
+    /* width: 200px; */
+    /* border: 20px solid black; */
+}
+
+.mountain{
+    margin: 0px;
+}
+
+.mysql{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.mongodb{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+p{
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 2;
+}
+
+.profile{
+    margin-bottom: 20px;
+}
+
+.python{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    /* line-height: 2; */
+}
+
+.top{
+    margin: -30px auto;
+    color: #146C94;
+    font-family: 'Kalam', cursive;
+}
+
+.topcontainer{
+    padding-top: 100px;
+    line-height: 2;
+    /* height: 200px;
+    width: 200px;
+    padding: 20px;
+    border: 10px solid black; */
+}
+
+.topcloud{
+    position: absolute;
+    right: 220px;
+    top: 20px;
+    /* top: 50px; */
+}
+
+.testing{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+
